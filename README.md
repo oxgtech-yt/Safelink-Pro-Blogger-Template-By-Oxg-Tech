@@ -6,4 +6,4 @@ Safelink Pro is a Blogger template that encrypts and protects outbound links, he
 
 Visit the live demo: https://wingshorturl.blogspot.com/
 
-![Uploading WingShortURL-11-29-2025_07_21_PM.png…]
+<img width="1440" height="1032" alt="WingShortURL" src="https://github.com/user-attachments/assets/7cebd646-5c29-481b-bb25-a6c95f0ff3b4" />
